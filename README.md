@@ -1,3 +1,4 @@
+"Only FlightGear"
 It add Livery of Amakusa Airlines for 
 ATR42-500,600.
 
