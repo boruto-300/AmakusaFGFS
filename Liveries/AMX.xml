@@ -8,7 +8,10 @@
             <texture>Liveries/Amakusa.png</texture>
 	    <lights>Liveries/Amakusa-lights.png</lights>
 	    <seat-colour>blue-leather.png</seat-colour>
+<<<<<<< HEAD
 	    <seat-logo>logos/Amakusa_logo.png</seat-logo>
+=======
+>>>>>>> ac8f247fca9d4c418d3720359bad0850831cc23e
 <configuration type="string">pax</configuration>
         </livery>
     </model>
