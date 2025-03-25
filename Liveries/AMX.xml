@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Amakusa Airlines</name>
+            <texture>Liveries/Amakusa.png</texture>
+	    <lights>Liveries/Amakusa-lights.png</lights>
+	    <seat-colour>blue-leather.png</seat-colour>
+	    <seat-logo>logos/AXL.png</seat-logo>
+<configuration type="string">pax</configuration>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
+
