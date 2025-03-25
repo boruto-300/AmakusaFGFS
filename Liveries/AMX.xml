@@ -8,10 +8,9 @@
             <texture>Liveries/AMX.png</texture>
 	    <lights>Liveries/AMX-lights.png</lights>
 	    <seat-colour>blue-leather.png</seat-colour>
-	    <seat-logo>/logos/AMX_logo.png</seat-logo>
+	    <seat-logo>logos/AMX.png</seat-logo>
 <configuration type="string">pax</configuration>
         </livery>
     </model>
 </sim>
 </PropertyList>
-
