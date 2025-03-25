@@ -5,10 +5,10 @@
     <model>
         <livery>
             <name type="string">Amakusa Airlines</name>
-            <texture>Liveries/Amakusa.png</texture>
-	    <lights>Liveries/Amakusa-lights.png</lights>
+            <texture>Liveries/AMX.png</texture>
+	    <lights>Liveries/AMX-lights.png</lights>
 	    <seat-colour>blue-leather.png</seat-colour>
-	    <seat-logo>/logos/Amakusa_logo.png</seat-logo>
+	    <seat-logo>/logos/AMX_logo.png</seat-logo>
 <configuration type="string">pax</configuration>
         </livery>
     </model>
