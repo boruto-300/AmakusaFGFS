@@ -4,10 +4,10 @@
 <sim>
     <model>
         <livery>
-            <name type="string">Amakusa Airlines</name>
+            <name type="string">Amakusa</name>
             <texture>Liveries/AMX.png</texture>
 	    <lights>Liveries/AMX-lights.png</lights>
-	    <seat-colour>blue-cloth.png</seat-colour>
+	    <seat-colour>leather2.png</seat-colour>
 	    <seat-logo>logos/AMX.png</seat-logo>
 <configuration type="string">pax</configuration>
         </livery>
